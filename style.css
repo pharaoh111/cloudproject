@@ -1,0 +1,22 @@
+.jumbotron
+{
+    background-image: url("files.jpeg");
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.stayhere
+{
+    text-align: center;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.facts
+{
+    text-align: center;
+    flex-flow: wrap;
+}
+
